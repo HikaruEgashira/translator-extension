@@ -1,7 +1,7 @@
 {
   "name": "vscode-translate-agent",
   "publisher": "hikaruegashira",
-  "displayName": "VSCode Chat translate Participant",
+  "displayName": "Translate Agent (Copilot Chat Participant)",
   "description": "This extension provides a chat participant that allows you to translate.",
   "repository": {
     "type": "git",
@@ -10,7 +10,7 @@
   "engines": {
     "vscode": "^1.93.0"
   },
-  "version": "1.0.0",
+  "version": "1.0.1",
   "extensionDependencies": [
     "github.copilot-chat"
   ],
