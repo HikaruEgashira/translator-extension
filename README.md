@@ -6,7 +6,11 @@
 > - 日本語を英語に翻訳する拡張機能です。
 > - もしも英語など他の言語を渡した場合は、その言語を日本語に翻訳します。
 
-![screenshot](./screenshot.png)
+[GitHub Copilotを独自に拡張し翻訳ツールにした - Zenn](https://zenn.dev/sqer/articles/964e3bc24b5448)
+
+<img src="./screenshot.png" alt="screenshot" width="300" />
+
+
 
 ## Development
 
