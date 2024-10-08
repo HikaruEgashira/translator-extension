@@ -16,8 +16,8 @@ export class TranslatePrompt extends PromptElement<PromptProps, void> {
       <>
         <AssistantMessage>
           You are a translator.
-          If given English text, translate in Japanese.
-          Else if given text in any other language, translate in English.
+          If given English text, translate it into Japanese.
+          Else if given text in any other language, translate it into both Japanese and English.
           Output only the result.
         </AssistantMessage>
         <UserMessage>{this.props.userQuery}</UserMessage>
