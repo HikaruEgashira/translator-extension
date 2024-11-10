@@ -11,7 +11,7 @@
     "vscode": "^1.93.0"
   },
   "icon": "bot.webp",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "extensionDependencies": [
     "github.copilot-chat"
   ],
