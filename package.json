@@ -26,7 +26,18 @@
         "fullName": "translator",
         "name": "translator",
         "description": "translate given prompt",
-        "isSticky": true
+        "isSticky": true,
+        "disambiguation": [
+          {
+            "category": "translation",
+            "description": "The user wants to translate text from any language to English and improve its quality.",
+            "examples": [
+              "Translate this text to English",
+              "Can you improve my English writing?",
+              "How do I say this in English?"
+            ]
+          }
+        ]
       }
     ]
   },
