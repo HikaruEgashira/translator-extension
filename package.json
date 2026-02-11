@@ -59,7 +59,7 @@
   },
   "devDependencies": {
     "@biomejs/biome": "^1.9.3",
-    "@langchain/community": "^0.3.4",
+    "@langchain/community": "^1.1.14",
     "@types/node": "^20.14.9",
     "@types/vscode": "1.93.0",
     "@vscode/prompt-tsx": "^0.2.11-alpha",
